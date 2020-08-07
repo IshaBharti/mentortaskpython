@@ -1,4 +1,4 @@
-3. Write a Python program to get the largest number from a list. 
+3 
 
 check=[2,4,50,7,9]
 i=0
